@@ -1,4 +1,4 @@
-public class exercicio9 {
+public class aula2exercicio9 {
     public static void main(String[] args) {
         double nota1 = 8.0, nota2 = 7.5, nota3 = 4.5, nota4 = 9, media;
 

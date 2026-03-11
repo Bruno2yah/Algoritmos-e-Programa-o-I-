@@ -1,5 +1,5 @@
 import java.lang.Math;
-public class exercicio8{
+public class aula2exercicio8{
     public static void main(String[] args) {
         
             double resultado1, resultado2;

@@ -1,4 +1,4 @@
-public class exercicio10 {
+public class aula2exercicio10 {
     public static void main(String[] args) {
         int lado = 350, area;
 

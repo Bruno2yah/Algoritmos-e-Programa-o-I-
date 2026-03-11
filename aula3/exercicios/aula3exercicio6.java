@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exercicio6 {
+public class aula3exercicio6 {
     public static void main(String[] args) {
         // Bruno Geanini dos Reis
         // homens: 72,7kg + 0,75 x(altura - 152, 4 cm)

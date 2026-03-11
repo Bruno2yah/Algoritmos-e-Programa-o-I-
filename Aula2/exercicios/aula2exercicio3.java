@@ -1,4 +1,4 @@
-public class exercicio3 {
+public class aula2exercicio3 {
     public static void main(String[] args) {
         
         int tabuada = 5, resultado;

@@ -1,4 +1,4 @@
-public class exercicio1{
+public class aula2exercicio1{
     public static void main(String[] args) {
         String nomeCompleto, curso, ra;
         

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exercicio1{
+public class aula3exercicio1{
     // Bruno Geanini dos Reis
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
