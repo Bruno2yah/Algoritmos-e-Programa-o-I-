@@ -9,7 +9,7 @@ public class aula04exercicio06 {
         boolean repetir = true;
 
         while(repetir){
-            System.out.printf("Digite o codigo do produto:%n100 - Cachorro Quente R$ 1,20%n101 - Bauru Simples R$ 1,30%n102 - Bauru com ovo R$ 1,50%n103 - Hamburguer R$ 1,30%n104 - Cheeseburguer R$ 1,30%n105 - Refrigerante R$ 1,00%n");
+            System.out.printf("Digite o codigo do produto:%n100 - Cachorro Quente R$ 1,20%n101 - Bauru Simples R$ 1,30%n102 - Bauru com ovo R$ 1,50%n103 - Hamburguer R$ 1,20%n104 - Cheeseburguer R$ 1,30%n105 - Refrigerante R$ 1,00%n");
             codigoProduto = entrada.nextInt();
 
             System.out.printf("Digite a quantidade:%n");
