@@ -2,6 +2,7 @@ import java.util.Scanner;
 import java.lang.Math;
 
 public class aula04exercicio05 {
+      // Bruno Geanini dos Reis
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         char operacao, continuar;

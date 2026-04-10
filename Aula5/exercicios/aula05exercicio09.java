@@ -3,6 +3,7 @@ package Aula5.exercicios;
 import java.util.Scanner;
 
 public class aula05exercicio09 {
+      // Bruno Geanini dos Reis
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         char continuar;
@@ -20,51 +21,27 @@ public class aula05exercicio09 {
     
             switch (codigoProduto) {
                 case 100:
-                    if(valorCachorroQuente == 0) {
-                        valorCachorroQuente = quantidade * 1.2;
-                    } else {
-                        valorCachorroQuente += quantidade * 1.2;
-                    }
+                    valorCachorroQuente += quantidade * 1.2;
                     quantidadeCachorroQuente += quantidade;
                     break;
                 case 101:
-                    if(valorBauruSimples == 0) {
-                        valorBauruSimples = quantidade * 1.30;
-                    } else {
-                        valorBauruSimples += quantidade * 1.30;
-                    }
+                    valorBauruSimples += quantidade * 1.30;
                     quantidadeBauruSimples += quantidade;
                     break;
                 case 102:
-                    if(valorBauruOvo == 0) {
-                        valorBauruOvo = quantidade * 1.50;
-                    } else {
-                        valorBauruOvo += quantidade * 1.50;
-                    }
+                    valorBauruOvo += quantidade * 1.50;
                     quantidadeBauruOvo += quantidade;
                     break;
                 case 103:
-                    if(valorHamburguer == 0) {
-                        valorHamburguer = quantidade * 1.20;
-                    } else {
-                        valorHamburguer += quantidade * 1.20;
-                    }
+                    valorHamburguer += quantidade * 1.20;
                     quantidadeHamburguer += quantidade;
                     break;
                 case 104:
-                    if(valorCheeseburguer == 0) {
-                        valorCheeseburguer = quantidade * 1.30;
-                    } else {
-                        valorCheeseburguer += quantidade * 1.30;
-                    }
+                    valorCheeseburguer += quantidade * 1.30;
                     quantidadeCheeseburguer += quantidade;
                     break;
                 case 105:
-                    if(valorRefrigerante == 0) {
-                        valorRefrigerante = quantidade * 1;
-                    } else {
-                        valorRefrigerante += quantidade * 1;
-                    }
+                    valorRefrigerante += quantidade * 1;
                     quantidadeRefrigerante += quantidade;
                     break;
                 default:

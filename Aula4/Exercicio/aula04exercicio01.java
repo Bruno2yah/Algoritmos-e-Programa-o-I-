@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class aula04exercicio01 {
+      // Bruno Geanini dos Reis
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int dia;

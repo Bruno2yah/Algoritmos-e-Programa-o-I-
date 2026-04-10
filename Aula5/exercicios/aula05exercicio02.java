@@ -1,6 +1,7 @@
 package Aula5.exercicios;
 import java.util.Scanner;
 public class aula05exercicio02 {
+      // Bruno Geanini dos Reis
     // Faça um algoritmo que leia 10 números inteiros e diga: quantos são pares; e quantos são ímpares.
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
