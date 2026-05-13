@@ -3,6 +3,7 @@ package Aula7.exercicios;
 import java.util.Scanner;
 
 public class aula07exercicio01 {
+    // Bruno Geanini dos Reis
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 

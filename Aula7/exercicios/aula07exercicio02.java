@@ -4,6 +4,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 public class aula07exercicio02 {
+    // Bruno Geanini dos Reis
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 

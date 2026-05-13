@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class aula07exercicio03 {
     public static void main(String[] args) {
+        // Bruno Geanini dos Reis
         Scanner entrada = new Scanner(System.in);
 
         String[] nomes = new String[5];

@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class aula07exercicio06 {
     public static void main(String[] args) {
+        // Bruno Geanini dos Reis
         Scanner entrada = new Scanner(System.in);
 
         int tamanhoVetorA = 4, tamanhoVetorB = 7, tamanhoVetorC = tamanhoVetorA + tamanhoVetorB, divisaoAB = tamanhoVetorA;

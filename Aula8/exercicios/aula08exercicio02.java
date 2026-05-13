@@ -1,6 +1,7 @@
 package exercicios;
 public class aula08exercicio02 {
     public static void main(String[] args) {
+        // Bruno Geanini dos Reis
         imprimeNovaMensagem("Emily");
         imprimeNovaMensagem("Bruno");
         imprimeNovaMensagem("Emily e Bruno");
